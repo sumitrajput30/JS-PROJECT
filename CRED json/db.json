@@ -1,0 +1,59 @@
+{
+  "car": [
+    {
+      "name": "amit",
+      "age": "28",
+      "adhar": "12345",
+      "number": "78485784784",
+      "date": "2025-03-04",
+      "destination": "bhopal",
+      "person": "9",
+      "price": 400,
+      "id": "5fa3"
+    },
+    {
+      "name": "sumit",
+      "age": "45",
+      "adhar": "54544",
+      "number": "78485784784",
+      "date": "2025-03-12",
+      "destination": "bhopal",
+      "person": "4",
+      "price": 400,
+      "id": "56b8"
+    },
+    {
+      "name": "sumit",
+      "age": "28",
+      "adhar": "12345",
+      "number": "78485784784",
+      "date": "2025-03-04",
+      "destination": "bhopal",
+      "person": "4",
+      "price": 400,
+      "id": "42ad"
+    },
+    {
+      "name": "Dev",
+      "age": "28",
+      "adhar": "12345",
+      "number": "78485784784",
+      "date": "2025-03-04",
+      "destination": "bhopal",
+      "person": "9",
+      "price": 400,
+      "id": "7eb1"
+    },
+    {
+      "name": "SUMIT",
+      "age": "45",
+      "adhar": "4566",
+      "number": "7889944332",
+      "date": "2025-03-17",
+      "destination": "bhopal",
+      "person": "5",
+      "price": 400,
+      "id": "2664"
+    }
+  ]
+}
